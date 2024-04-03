@@ -1,0 +1,14 @@
+{  
+  "compilerOptions": {
+    "sourceRoot": "./src",
+    "outDir": "./build",
+    "target": "es5",
+    "module": "commonjs",
+    "allowJs": false,
+    "removeComments": true,
+    "esModuleInterop": true,
+    "sourceMap": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true
+  },
+}

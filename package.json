@@ -1,0 +1,7 @@
+{
+  "name": "typescript-utility-types",
+  "version": "0.0.1",
+  "devDependencies": {
+    "typescript": "^5.4.3"
+  }
+}
